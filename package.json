@@ -1,6 +1,6 @@
 {
   "name": "@logeagle/adapter-browser",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Adapter to monitor websites and web application front-ends.",
   "main": "dist/logeagle-adapter-browser.js",
   "repository": {

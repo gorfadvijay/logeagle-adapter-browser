@@ -8,7 +8,7 @@ Add the script to the header of your website or web application.
 
 ```html
 <script
-  src="https://unpkg.com/@logeagle/adapter-browser@2.0.0/dist/logeagle-adapter-browser.js"
+  src="https://unpkg.com/@logeagle/adapter-browser@2.0.1/dist/logeagle-adapter-browser.js"
   crossorigin
 ></script>
 ```
@@ -19,7 +19,7 @@ To initialize the adapter with your desired configuration, you need to pass the 
 
 ```html
 <script
-  src="https://unpkg.com/@logeagle/adapter-browser@2.0.0/dist/logeagle-adapter-browser.js"
+  src="https://unpkg.com/@logeagle/adapter-browser@2.0.1/dist/logeagle-adapter-browser.js"
   crossorigin
 ></script>
 
@@ -30,4 +30,4 @@ To initialize the adapter with your desired configuration, you need to pass the 
 
 ## Documentation
 
-Visit our [documentation](https://docs.logeagle.io/docs/browser-adapter) for more.
+Visit our [documentation](https://docslogeagle.jarviot.tech/docs/browser-adapter) for more.

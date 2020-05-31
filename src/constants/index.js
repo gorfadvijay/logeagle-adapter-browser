@@ -1,14 +1,14 @@
 export default {
     focusableElements: ['button', 'details', 'input', 'iframe', 'select', 'textarea'],
     connectivity: {
-        serviceURL: 'https://api.logowl.io'
+        serviceURL: 'https://apilogeagle.jarviot.tech'
     },
     adapter: {
-        name: 'logowl-adapter-browser',
+        name: 'logeagle-adapter-browser',
         type: 'browser',
         version: 'v2.1.0'
     },
     isMobile: /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent),
-    consentKey: 'logowl-analytics-enabled',
-    sessionKey: 'logowl-analytics-active-session'
+    consentKey: 'logeagle-analytics-enabled',
+    sessionKey: 'logeagle-analytics-active-session'
 };

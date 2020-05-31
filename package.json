@@ -1,33 +1,33 @@
 {
-    "name": "@logowl/adapter-browser",
-    "version": "2.1.0",
-    "description": "Adapter to monitor websites and web application front-ends.",
-    "main": "dist/logowl-adapter-browser.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/jz222/logowl-adapter-browser.git"
-    },
-    "scripts": {
-        "dev": "http-server dev/",
-        "build": "rollup -c"
-    },
-    "author": "Timo Zimmermann",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/jz222/logowl-adapter-browser/issues"
-    },
-    "homepage": "https://github.com/jz222/logowl-adapter-browser#readme",
-    "devDependencies": {
-        "@babel/core": "^7.9.0",
-        "@babel/preset-env": "^7.9.5",
-        "rollup": "^2.6.0",
-        "rollup-plugin-babel": "^4.4.0",
-        "rollup-plugin-terser": "^5.3.0"
-    },
-    "keywords": [
-        "logowl",
-        "adapter",
-        "browser",
-        "monitoring"
-    ]
+  "name": "@logeagle/adapter-browser",
+  "version": "2.0.0",
+  "description": "Adapter to monitor websites and web application front-ends.",
+  "main": "dist/logeagle-adapter-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorfadvijay/logeagle-adapter-browser.git"
+  },
+  "scripts": {
+    "dev": "http-server dev/",
+    "build": "rollup -c"
+  },
+  "author": "Vijay Gorfad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorfadvijay/logeagle-adapter-browser/issues"
+  },
+  "homepage": "https://github.com/gorfadvijay/logeagle-adapter-browser#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "rollup": "^2.6.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-terser": "^5.3.0"
+  },
+  "keywords": [
+    "logeagle",
+    "adapter",
+    "browser",
+    "monitoring"
+  ]
 }
